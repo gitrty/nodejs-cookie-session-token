@@ -1,0 +1,1 @@
+define({  "name": "heros-apis",  "version": "0.1.0",  "description": "所有的接口以 http://127.0.0.1:3000/ 为准",  "title": "heros-apis",  "url": "",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-08-09T08:46:24.009Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }});
